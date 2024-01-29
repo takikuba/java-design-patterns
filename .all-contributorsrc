@@ -2816,6 +2816,62 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "HongGeonUi",
+      "name": "Hong Geon-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89684956?v=4",
+      "profile": "https://github.com/HongGeonUi",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ylcn91",
+      "name": "Doksanbir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7249450?v=4",
+      "profile": "https://github.com/ylcn91",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "Chant3ll3",
+      "name": "Chant3ll3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141697333?v=4",
+      "profile": "https://github.com/Chant3ll3",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
+    },
+    {
+      "login": "hwan33",
+      "name": "YongHwan Kwon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67625677?v=4",
+      "profile": "https://hwan33.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "takikuba",
+      "name": "Jakub Klimek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58841343?v=4",
+      "profile": "https://github.com/takikuba",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bachbil",
+      "name": "believe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28935461?v=4",
+      "profile": "https://github.com/bachbil",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
